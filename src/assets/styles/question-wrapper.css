@@ -1,0 +1,16 @@
+.question-wrapper {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.question-wrapper h2 {
+    margin: 0;
+    padding: 0;
+}
+
+.question-wrapper p {
+    padding: 0;
+    margin: 0;
+}

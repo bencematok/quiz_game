@@ -1,0 +1,9 @@
+* {
+    font-family: Montserrat, sans-serif;
+}
+
+html,
+body {
+    color: white;
+    background-color: rgb(75 75 175);
+}

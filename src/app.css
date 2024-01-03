@@ -1,0 +1,12 @@
+@import './assets/styles/_base.css';
+@import './assets/styles/alignment.css';
+@import './assets/styles/answer-wrapper.css';
+@import './assets/styles/buttons.css';
+@import './assets/styles/container.css';
+@import './assets/styles/countdown.css';
+@import './assets/styles/font-weight.css';
+@import './assets/styles/heading-wrapper.css';
+@import './assets/styles/question-wrapper.css';
+@import './assets/styles/spacing.css';
+@import './assets/styles/timer-wrapper.css';
+@import './assets/styles/wrapper.css';
